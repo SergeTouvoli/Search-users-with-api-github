@@ -1,5 +1,7 @@
 # Search-users-with-api-github
 
+https://sergedev.xyz/GithubProfiles/
+
 Ce projet vous permet de rechercher un utilisateur sur GitHub à partir de son nom d'utilisateur. L'application affiche l'avatar de l'utilisateur, ses 5 derniers dépôts et son nombre de followers.
 
 ## Comment utiliser
